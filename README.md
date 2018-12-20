@@ -1,4 +1,4 @@
-Merhabalar Visual Studio Code kullananlar için güzel bı şey farkettım ve çok işime yaradı sizlede paylaşmak istedim.
+Merhabalar Visual Studio Code kullananlar için güzel bı şey farkettım ve çok işime yaradı sizlerlede paylaşmak istedim.
 
 
 package.json içindeki extensionDependencies plugınlerimizi ekleyerek yeni bir
