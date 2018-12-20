@@ -1,0 +1,25 @@
+{
+  "name": "front-end-professional",
+  "displayName": "Benim Yedegım",
+  "description": "Yedek alma",
+  "version": "1.21.0",
+  "publisher": "Alicannklc",
+  "preview": true,
+  "readme": "README.md",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "author": {
+    "email": "alicannklc.com",
+    "name": "Alıcan Kılıç",
+    "url": "https://github.com/Mervsy"
+  },
+
+  "extensionDependencies": [
+    "aaronphy.scss-scan",
+
+  ]
+}
