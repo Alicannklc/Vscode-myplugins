@@ -6,7 +6,7 @@ işletim sıstemi veya başka kullanacagımız bilgisaraya gectimizde çok işe 
 
 
 [Vscode](https://marketplace.visualstudio.com/) markete giderek eklentilerimizi arıyoruz 
-![alt text](https://i.hizliresim.com/v6Rgb4.jpg)
+![enter image description here](https://raw.githubusercontent.com/Alicannklc/Vscode-myplugins/master/Du2cyZ-XQAACFZc.jpg)
 items?itemName= sonrası olan bu alanı  extensionDependencies içine eklıyoruz ve bunda sınır yok istedigimiz kadar ekleyip sonrada kullanıcı icinde .vscode alanına ekleyip vscodeyı başlatıyoruz internetınızın hizina göre o sizin için hepsini yüklüyor.
 
 
