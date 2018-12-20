@@ -1,5 +1,5 @@
 {
-  "name": "front-end-professional",
+  "name": "My-plugıns",
   "displayName": "Benim Yedegım",
   "description": "Yedek alma",
   "version": "1.21.0",
@@ -15,11 +15,11 @@
   "author": {
     "email": "alicannklc.com",
     "name": "Alıcan Kılıç",
-    "url": "https://github.com/Mervsy"
+    "url": "https://github.com/alicannklc"
   },
 
   "extensionDependencies": [
-    "aaronphy.scss-scan",
+    "aaronphy.scss-scan"
 
   ]
 }
